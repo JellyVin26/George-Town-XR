@@ -2,3 +2,7 @@
 *.cjs
 /verification.json
 /node_modules/
+
+# Local Markdown notes
+*.md
+!/README.md
