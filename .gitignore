@@ -1,0 +1,4 @@
+# Local verification tooling and output
+*.cjs
+/verification.json
+/node_modules/
