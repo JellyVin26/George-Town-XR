@@ -1,0 +1,36 @@
+{
+  "result": "PASS",
+  "checks": [
+    "Three verified site identities; distinct site photos, bilingual stories/questions and source links across all 30 language/site/experience combinations",
+    "Content-version migration resets obsolete progress, preserves unrelated storage",
+    "On-site preview container separate from simulations; Remote has no camera container",
+    "All three stops selectable; 15 footer experience entries open; non-sequential trail completion; per-stop drafts persist",
+    "All five experiences opened from bottom navigation",
+    "Simulated marker and aligned photo/line-study slider",
+    "Tracking simulation recovered through Retry and comparison fallback",
+    "Artifact placement, keyboard rotation, zoom, both hotspots and camera-free viewer",
+    "3D Tour keyboard and directional controls, two viewpoints and context hotspot",
+    "Direct story, marker story, playback and pause",
+    "Evidence, wrong/right explanatory feedback, advance",
+    "Leave and resume trail, including browser reload",
+    "Remote three-stop completion",
+    "Bahasa Melayu and heritage stop selection",
+    "Six footer tabs, route-current state, keyboard activation; EN/BM 320px, 390px and 1440px layout without horizontal overflow",
+    "Contextual help on all six screens; Escape dismisses dialogs",
+    "Restart confirmation, cancel and undo",
+    "Disabled Continue before correct answer; draft persists across reload",
+    "Zoom limit prevention; labelled hotspot alternative",
+    "Fixed app navigation while content scrolls; 44px navigation and experience targets; labelled Back to Explore works; consistent app brand and active navigation across all experiences",
+    "No page JavaScript errors"
+  ],
+  "screenshots": [
+    "01-explore.png",
+    "02-historical-streetscape.png",
+    "03-artifact-explorer.png",
+    "04-virtual-tour.png",
+    "05-community-story.png",
+    "06-discovery-trail.png",
+    "desktop-explore.png",
+    "desktop-trail.png"
+  ]
+}
